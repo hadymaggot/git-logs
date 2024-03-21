@@ -12,6 +12,8 @@ ___
 - Go to ```/home/[user]/git-logs``` and ```Copy``` the [demo](https://github.com/hadymaggot/git-logs/tree/main/demo) directory to your ```web_root```.
   ```bash
   cd /home/[user]/git-logs/ #change the path with yours
+  ```
+  ```bash
   cp -r demo/ /var/www/domain.tld/demo/
   ```
 -  Create a job for exec the ```log.sh``` every 10 minutes
