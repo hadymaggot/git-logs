@@ -10,3 +10,4 @@ crontab -e
 ```
 
 Screenshots:
+![Sorry I'm sensored some detail](https://github.com/hadymaggot/git-logs/blob/main/Screenshot%202024-03-22%20010612.png)
