@@ -24,3 +24,5 @@ ___
 ___
 Screenshots:
 ![Sorry I'm sensored some detail](https://github.com/hadymaggot/git-logs/blob/main/images/Screenshot%202024-03-22%20010612.png)
+
+[![Sponsor Hadymaggot on GitHub](https://img.shields.io/badge/Sponsor_on_GitHub-hadymaggot-%cddc39?style=for-the-badge&logo=githubsponsors&logoColor=cddc39)](https://github.com/sponsors/hadymaggot)
