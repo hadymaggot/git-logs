@@ -1,5 +1,5 @@
 # git-logs
-This bash script was created to make my job easier when working on a server that has not yet implemented version control automation. Where this script helps me to update sources regularly from the git repository to the server.
+This script was created to make my job easier when working on a server that has not yet implemented version control automation. Where this can helps me to updated sources regularly from the git repository to the server.
 
 Embedding other commands such as ```stdout```, ```ts```, etc. when running ```git fetch``` and ```git pull``` command. So the output of each ```git``` command can be saved in one html file.
 
