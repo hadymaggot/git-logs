@@ -3,9 +3,9 @@ This script was created to make my job easier when working on a server that has 
 
 Embedding other commands such as ```stdout```, ```ts```, etc. when running ```git fetch``` and ```git pull``` command. So the output of each ```git``` command can be saved in one html file.
 
-Make sure you can execute basic ```git``` commands manually (without error) to your existing repository.
+Make sure you can execute basic ```git``` commands manually (without ~error~) to your _existing repository_.
 ___
-- Clone this repository to your ```home directory```.
+- Clone this repository to your ```home_directory```.
   ```bash
   git clone https://github.com/hadymaggot/git-logs.git /home/[user]/git-logs #change the path with yours
   ```
