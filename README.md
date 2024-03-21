@@ -21,7 +21,7 @@ ___
     crontab -e
     ```
     ```bash
-    0,10,20,30,40,50 * * * * sh /home/[user]/log.sh #change the path with yours
+    0,10,20,30,40,50 * * * * sh /home/[user]/git-logs/log.sh #change the path with yours
     ```
 ___
 Screenshots:
